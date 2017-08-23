@@ -1,6 +1,6 @@
 # Pathfinder
 
-wat?
+wat? Never forgetti to `npm install` spaghetti
 
 ## potato
 
